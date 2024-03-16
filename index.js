@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = [".gg/celesticalservices"];
+const statusMessages = [".gg/amethyst-service"];
 
 
 let currentIndex = 0;
