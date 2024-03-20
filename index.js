@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = [".gg/amethyst-service"];
+const statusMessages = [".gg/funliferp"];
 
 
 let currentIndex = 0;
